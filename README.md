@@ -1,1 +1,1 @@
-# capstone-proect-notebook
+# capstone-project-notebook
